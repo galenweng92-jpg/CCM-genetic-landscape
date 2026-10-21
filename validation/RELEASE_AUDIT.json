@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-21T17:22:33+00:00",
+  "checked_at_utc": "2026-10-21T18:06:28+00:00",
   "scope": "This release directory only; .git internals and the two generated checksum/manifest files are excluded.",
   "all_pattern_checks_passed": true,
   "findings": [],
