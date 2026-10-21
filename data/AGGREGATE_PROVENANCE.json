@@ -1,0 +1,58 @@
+{
+  "source_version": "2026-10-16 frozen supplementary record tables",
+  "aggregation_version": "2026-10-20",
+  "included": "Study-level or predefined-subset counts and two-by-two tables only.",
+  "excluded": "All participant/specimen/family IDs, case rows, variant-level records, clinical text, source locators and private paths.",
+  "restriction": "The public subset cannot reconstruct original source extraction, record-level inclusion, or deduplication.",
+  "files": [
+    {
+      "file": "data/aggregate_inputs/familial_composition_counts.csv",
+      "origin": "Frozen-source statistical aggregation corresponding to Supplemental Table S8",
+      "source_aggregate_sha256": "4af8b08ef49d76a2d6b2e63a73b21e1a4f13d7b42fcc2994b54a5239cd6f1f4e",
+      "transformation": "Retain aggregate categorical labels and count fields only; remove estimates and confidence intervals for independent recomputation.",
+      "rows": 8
+    },
+    {
+      "file": "data/aggregate_inputs/paired_endpoints_counts.csv",
+      "origin": "Frozen-source statistical aggregation corresponding to Supplemental Table S8",
+      "source_aggregate_sha256": "7c1bd80f4bc86e64d005157e2228f14a969740af3c739b731b0ec4091c296f5d",
+      "transformation": "Retain aggregate categorical labels and count fields only; remove estimates and confidence intervals for independent recomputation.",
+      "rows": 2
+    },
+    {
+      "file": "data/aggregate_inputs/sporadic_detection_sensitivity_counts.csv",
+      "origin": "Frozen-source statistical aggregation corresponding to Supplemental Table S8",
+      "source_aggregate_sha256": "8ee26b23b8d40bb57ea6b968734605f11ce761647cde5aace34b5358ea0d200b",
+      "transformation": "Retain aggregate categorical labels and count fields only; remove estimates and confidence intervals for independent recomputation.",
+      "rows": 25
+    },
+    {
+      "file": "data/aggregate_inputs/map3k3_pik3ca_cofinding_sensitivity_counts.csv",
+      "origin": "Frozen-source statistical aggregation corresponding to Supplemental Table S8",
+      "source_aggregate_sha256": "0fa3f91d2c0b2ae9515d3246da5b573dea6eb2256db23da0c76342eb52370edc",
+      "transformation": "Retain aggregate categorical labels and count fields only; remove estimates and confidence intervals for independent recomputation.",
+      "rows": 5
+    },
+    {
+      "file": "data/aggregate_inputs/study_specific_detection_counts.csv",
+      "origin": "Frozen-source statistical aggregation corresponding to Supplemental Table S8",
+      "source_aggregate_sha256": "33387d8ff39920626c9908df306e17478ea33b34523b170a778ba5cf52ee4c29",
+      "transformation": "Retain aggregate categorical labels and count fields only; remove estimates and confidence intervals for independent recomputation.",
+      "rows": 85
+    },
+    {
+      "file": "data/aggregate_inputs/association_2x2_counts.csv",
+      "origin": "Frozen-source statistical aggregation corresponding to Supplemental Table S8",
+      "source_aggregate_sha256": "c7508df9958a215d95551d938e31d2895939d38ff3047184dbc6528c076bf22d",
+      "transformation": "Retain aggregate categorical labels and count fields only; remove estimates and confidence intervals for independent recomputation.",
+      "rows": 16
+    },
+    {
+      "file": "data/aggregate_inputs/association_study_strata.csv",
+      "origin": "Frozen-source statistical aggregation corresponding to Supplemental Table S8",
+      "source_aggregate_sha256": "94c6d2ce5b6851b4e5409922a6722186bfc056efd15c6315bd87822cc3b64144",
+      "transformation": "Retain aggregate categorical labels and count fields only; remove estimates and confidence intervals for independent recomputation.",
+      "rows": 120
+    }
+  ]
+}
