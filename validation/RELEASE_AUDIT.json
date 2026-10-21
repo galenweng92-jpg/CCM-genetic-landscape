@@ -1,0 +1,228 @@
+{
+  "checked_at_utc": "2026-10-21T17:22:33+00:00",
+  "scope": "This release directory only; .git internals and the two generated checksum/manifest files are excluded.",
+  "all_pattern_checks_passed": true,
+  "findings": [],
+  "csv_checks": [
+    {
+      "file": "data/aggregate_inputs/association_2x2_counts.csv",
+      "rows": 16,
+      "case_headers_found": []
+    },
+    {
+      "file": "data/aggregate_inputs/association_study_strata.csv",
+      "rows": 120,
+      "case_headers_found": []
+    },
+    {
+      "file": "data/aggregate_inputs/familial_composition_counts.csv",
+      "rows": 8,
+      "case_headers_found": []
+    },
+    {
+      "file": "data/aggregate_inputs/map3k3_pik3ca_cofinding_sensitivity_counts.csv",
+      "rows": 5,
+      "case_headers_found": []
+    },
+    {
+      "file": "data/aggregate_inputs/paired_endpoints_counts.csv",
+      "rows": 2,
+      "case_headers_found": []
+    },
+    {
+      "file": "data/aggregate_inputs/sporadic_detection_sensitivity_counts.csv",
+      "rows": 25,
+      "case_headers_found": []
+    },
+    {
+      "file": "data/aggregate_inputs/study_specific_detection_counts.csv",
+      "rows": 85,
+      "case_headers_found": []
+    },
+    {
+      "file": "data/source_publications.csv",
+      "rows": 210,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/TableS8_association_results.csv",
+      "rows": 8,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/TableS8_detection_sensitivity.csv",
+      "rows": 25,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/TableS8_driver_cofindings.csv",
+      "rows": 5,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/TableS8_family_and_paired_CI.csv",
+      "rows": 10,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/TableS8_study_detection.csv",
+      "rows": 85,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/TableS8_study_ranges.csv",
+      "rows": 2,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/association_2x2_counts.csv",
+      "rows": 16,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/association_exact_stratified_results.csv",
+      "rows": 16,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/association_group_wilson.csv",
+      "rows": 32,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/association_study_strata.csv",
+      "rows": 120,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/between_study_ranges.csv",
+      "rows": 2,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/familial_composition_wilson.csv",
+      "rows": 8,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/map3k3_pik3ca_cofinding_sensitivity_wilson.csv",
+      "rows": 5,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/paired_endpoints_wilson.csv",
+      "rows": 2,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/sporadic_detection_sensitivity_wilson.csv",
+      "rows": 25,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/recomputed/study_specific_detection_wilson.csv",
+      "rows": 85,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/TableS8_association_results.csv",
+      "rows": 8,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/TableS8_detection_sensitivity.csv",
+      "rows": 25,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/TableS8_driver_cofindings.csv",
+      "rows": 5,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/TableS8_family_and_paired_CI.csv",
+      "rows": 10,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/TableS8_study_detection.csv",
+      "rows": 85,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/TableS8_study_ranges.csv",
+      "rows": 2,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/association_2x2_counts.csv",
+      "rows": 16,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/association_exact_stratified_results.csv",
+      "rows": 16,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/association_group_wilson.csv",
+      "rows": 32,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/association_study_strata.csv",
+      "rows": 120,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/between_study_ranges.csv",
+      "rows": 2,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/familial_composition_wilson.csv",
+      "rows": 8,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/map3k3_pik3ca_cofinding_sensitivity_wilson.csv",
+      "rows": 5,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/paired_endpoints_wilson.csv",
+      "rows": 2,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/sporadic_detection_sensitivity_wilson.csv",
+      "rows": 25,
+      "case_headers_found": []
+    },
+    {
+      "file": "results/reference/study_specific_detection_wilson.csv",
+      "rows": 85,
+      "case_headers_found": []
+    }
+  ],
+  "python_syntax_checks": [
+    {
+      "file": "scripts/audit_release.py",
+      "parsed": true
+    },
+    {
+      "file": "scripts/reproduce_statistics.py",
+      "parsed": true
+    },
+    {
+      "file": "scripts/verify_results.py",
+      "parsed": true
+    }
+  ],
+  "limitations": [
+    "Pattern checks do not certify anonymity, absence of every possible secret, or redistribution rights.",
+    "Only aggregate inputs are included; source extraction and individual-record filtering are not audited here.",
+    "Some published study strata have small counts; author rights/privacy review remains required before public release.",
+    "No license, repository publication or archival DOI is established by this audit."
+  ]
+}
