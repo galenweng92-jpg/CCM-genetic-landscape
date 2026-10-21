@@ -1,0 +1,21 @@
+{
+  "status": "private_repository_initial_deposit_prepared",
+  "prepared_for_initial_deposit": "2026-10-21",
+  "repository_url": "https://github.com/galenweng92-jpg/CCM-genetic-landscape",
+  "repository_visibility": "private",
+  "remote_upload_verified_by_this_package": false,
+  "public_release": false,
+  "zenodo_record_url": null,
+  "doi": null,
+  "code_license": null,
+  "data_license": null,
+  "deposition_metadata_is_template_only": true,
+  "required_before_publication": [
+    "Author confirmation of creators and rights",
+    "Author-approved software and aggregate-data licenses",
+    "Verify completion and contents of the authorized private GitHub upload",
+    "Authorized Zenodo deposition with completed access/license/publication fields",
+    "Successful validation after final changes"
+  ],
+  "scope": "Aggregate-count statistical reproduction only; not all study code or source extraction."
+}

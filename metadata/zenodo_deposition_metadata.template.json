@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "title": "CCM genetic landscape: aggregate statistical reproducibility",
+    "upload_type": "software",
+    "version": "2026.10.20-rc1",
+    "description": "Aggregate-count statistical reproduction accompanying The genetic landscape of familial and sporadic cerebral cavernous malformations. Recomputes Wilson intervals, detection and sensitivity summaries, Fisher exact tests, Mantel-Haenszel estimates, CMH tests and exact conditional stratified tests from frozen aggregate counts. Does not redo literature screening, individual-case extraction, record-level filtering, genomic plotting, transcriptomic modeling or BioRender artwork. Contains no participant-level records, article PDFs, third-party gene-set memberships or BioRender assets.",
+    "creators": [
+      {"name": "Weng, Jiancong"},
+      {"name": "Xiao, Xue"},
+      {"name": "Li, Da"},
+      {"name": "Xu, Hongyuan"},
+      {"name": "Chang, Chienhui"},
+      {"name": "Song, Hengwei"},
+      {"name": "Ma, Yuxuan"},
+      {"name": "Yu, Bin"},
+      {"name": "Derry, W. Brent"}
+    ],
+    "keywords": [
+      "cerebral cavernous malformation",
+      "genetic landscape",
+      "aggregate data",
+      "statistical reproducibility"
+    ],
+    "notes": "Private-repository initial-deposit package prepared 2026-10-21 for https://github.com/galenweng92-jpg/CCM-genetic-landscape . This is not a public release and no archival DOI is assigned. Code and literature-derived aggregate-data rights are documented separately in RIGHTS_AND_PROVENANCE.md. Licensing and publication metadata require author confirmation before deposition."
+  }
+}
