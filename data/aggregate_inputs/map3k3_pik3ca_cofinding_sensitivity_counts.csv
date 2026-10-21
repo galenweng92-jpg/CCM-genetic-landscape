@@ -1,0 +1,6 @@
+analysis,endpoint,positive,eligible_n
+All source records,PIK3CA among MAP3K3-positive,133,202
+Exclude Ren 2025,PIK3CA among MAP3K3-positive,82,128
+Ren 2025 only,PIK3CA among MAP3K3-positive,51,74
+Exclude Ren 2025 and Hong 2021,PIK3CA among MAP3K3-positive,67,85
+Known absent family history,PIK3CA among MAP3K3-positive,110,175

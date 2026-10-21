@@ -1,0 +1,86 @@
+study,total_records,gene,not_detected,unavailable,at_least_23_source_records,positive,eligible_n
+Arkar 2021,1,KRIT1,0,1,False,0,0
+Arkar 2021,1,CCM2,0,1,False,0,0
+Arkar 2021,1,PDCD10,0,1,False,0,0
+Arkar 2021,1,MAP3K3,0,1,False,0,0
+Arkar 2021,1,PIK3CA,0,0,False,1,1
+Benichi 2025,63,KRIT1,59,0,True,4,63
+Benichi 2025,63,CCM2,0,63,True,0,0
+Benichi 2025,63,PDCD10,0,63,True,0,0
+Benichi 2025,63,MAP3K3,38,0,True,25,63
+Benichi 2025,63,PIK3CA,22,0,True,41,63
+Gallego-Bonhomme 2026,1,KRIT1,0,1,False,0,0
+Gallego-Bonhomme 2026,1,CCM2,0,0,False,1,1
+Gallego-Bonhomme 2026,1,PDCD10,0,1,False,0,0
+Gallego-Bonhomme 2026,1,MAP3K3,0,1,False,0,0
+Gallego-Bonhomme 2026,1,PIK3CA,0,0,False,1,1
+Hong 2021,81,KRIT1,81,0,True,0,81
+Hong 2021,81,CCM2,81,0,True,0,81
+Hong 2021,81,PDCD10,81,0,True,0,81
+Hong 2021,81,MAP3K3,38,0,True,43,81
+Hong 2021,81,PIK3CA,36,0,True,45,81
+Hongo 2025,50,KRIT1,0,50,True,0,0
+Hongo 2025,50,CCM2,0,50,True,0,0
+Hongo 2025,50,PDCD10,0,50,True,0,0
+Hongo 2025,50,MAP3K3,40,0,True,10,50
+Hongo 2025,50,PIK3CA,21,0,True,29,50
+Huo 2023,56,KRIT1,48,0,True,8,56
+Huo 2023,56,CCM2,54,0,True,2,56
+Huo 2023,56,PDCD10,56,0,True,0,56
+Huo 2023,56,MAP3K3,42,0,True,14,56
+Huo 2023,56,PIK3CA,22,0,True,34,56
+McDonald 2014,12,KRIT1,9,0,False,3,12
+McDonald 2014,12,CCM2,9,1,False,2,11
+McDonald 2014,12,PDCD10,11,1,False,0,11
+McDonald 2014,12,MAP3K3,0,10,False,2,2
+McDonald 2014,12,PIK3CA,1,10,False,1,2
+Nguyen 2026,6,KRIT1,0,5,False,1,1
+Nguyen 2026,6,CCM2,0,4,False,2,2
+Nguyen 2026,6,PDCD10,0,5,False,1,1
+Nguyen 2026,6,MAP3K3,0,4,False,2,2
+Nguyen 2026,6,PIK3CA,0,0,False,6,6
+Peyre 2021,85,KRIT1,79,0,True,6,85
+Peyre 2021,85,CCM2,83,0,True,2,85
+Peyre 2021,85,PDCD10,84,0,True,1,85
+Peyre 2021,85,MAP3K3,0,85,True,0,0
+Peyre 2021,85,PIK3CA,51,0,True,34,85
+Ren 2021 / Snellings 2022,61,KRIT1,53,0,True,8,61
+Ren 2021 / Snellings 2022,61,CCM2,57,0,True,4,61
+Ren 2021 / Snellings 2022,61,PDCD10,60,0,True,1,61
+Ren 2021 / Snellings 2022,61,MAP3K3,46,0,True,15,61
+Ren 2021 / Snellings 2022,61,PIK3CA,16,0,True,45,61
+Ren 2023 pediatric case (online 2022),1,KRIT1,1,0,False,0,1
+Ren 2023 pediatric case (online 2022),1,CCM2,1,0,False,0,1
+Ren 2023 pediatric case (online 2022),1,PDCD10,1,0,False,0,1
+Ren 2023 pediatric case (online 2022),1,MAP3K3,0,1,False,0,0
+Ren 2023 pediatric case (online 2022),1,PIK3CA,0,0,False,1,1
+Ren 2023 spinal case,1,KRIT1,0,1,False,0,0
+Ren 2023 spinal case,1,CCM2,0,1,False,0,0
+Ren 2023 spinal case,1,PDCD10,0,1,False,0,0
+Ren 2023 spinal case,1,MAP3K3,0,0,False,1,1
+Ren 2023 spinal case,1,PIK3CA,0,0,False,1,1
+Ren 2025,271,KRIT1,0,271,True,0,0
+Ren 2025,271,CCM2,0,271,True,0,0
+Ren 2025,271,PDCD10,0,271,True,0,0
+Ren 2025,271,MAP3K3,197,0,True,74,271
+Ren 2025,271,PIK3CA,112,0,True,159,271
+Ren 2026 Brain,1,KRIT1,0,1,False,0,0
+Ren 2026 Brain,1,CCM2,0,1,False,0,0
+Ren 2026 Brain,1,PDCD10,0,1,False,0,0
+Ren 2026 Brain,1,MAP3K3,0,0,False,1,1
+Ren 2026 Brain,1,PIK3CA,0,0,False,1,1
+Ressler 2025/2026,23,KRIT1,0,23,True,0,0
+Ressler 2025/2026,23,CCM2,0,23,True,0,0
+Ressler 2025/2026,23,PDCD10,0,23,True,0,0
+Ressler 2025/2026,23,MAP3K3,18,0,True,5,23
+Ressler 2025/2026,23,PIK3CA,2,0,True,21,23
+Sikta 2025,1,KRIT1,1,0,False,0,1
+Sikta 2025,1,CCM2,0,0,False,1,1
+Sikta 2025,1,PDCD10,1,0,False,0,1
+Sikta 2025,1,MAP3K3,0,0,False,1,1
+Sikta 2025,1,PIK3CA,0,0,False,1,1
+Weng 2021,33,KRIT1,30,0,True,3,33
+Weng 2021,33,CCM2,30,0,True,3,33
+Weng 2021,33,PDCD10,33,0,True,0,33
+Weng 2021,33,MAP3K3,24,0,True,9,33
+Weng 2021,33,PIK3CA,18,0,True,15,33

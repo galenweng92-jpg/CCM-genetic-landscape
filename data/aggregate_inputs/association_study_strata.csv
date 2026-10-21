@@ -1,0 +1,121 @@
+analysis_id,study,a,b,c,d,n,informative_for_CMH
+MAP3K3__any_CCM_gene_evaluable__all_source_records,Benichi 2025,2,23,2,36,63,True
+MAP3K3__any_CCM_gene_evaluable__all_source_records,Hong 2021,0,43,0,38,81,False
+MAP3K3__any_CCM_gene_evaluable__all_source_records,Huo 2023,0,14,10,32,56,True
+MAP3K3__any_CCM_gene_evaluable__all_source_records,McDonald 2014,0,2,0,0,2,False
+MAP3K3__any_CCM_gene_evaluable__all_source_records,Ren 2021 / Snellings 2022,0,15,13,33,61,True
+MAP3K3__any_CCM_gene_evaluable__all_source_records,Sikta 2025,1,0,0,0,1,False
+MAP3K3__any_CCM_gene_evaluable__all_source_records,Weng 2021,0,9,6,18,33,True
+MAP3K3__any_CCM_gene_evaluable__known_absent_family_history,Benichi 2025,2,23,2,36,63,True
+MAP3K3__any_CCM_gene_evaluable__known_absent_family_history,Hong 2021,0,43,0,38,81,False
+MAP3K3__any_CCM_gene_evaluable__known_absent_family_history,Huo 2023,0,14,10,32,56,True
+MAP3K3__any_CCM_gene_evaluable__known_absent_family_history,McDonald 2014,0,2,0,0,2,False
+MAP3K3__any_CCM_gene_evaluable__known_absent_family_history,Ren 2021 / Snellings 2022,0,7,4,7,18,True
+MAP3K3__any_CCM_gene_evaluable__known_absent_family_history,Sikta 2025,1,0,0,0,1,False
+MAP3K3__any_CCM_gene_evaluable__known_absent_family_history,Weng 2021,0,9,6,18,33,True
+MAP3K3__any_CCM_gene_evaluable__exclude_multi_finding_selected,Benichi 2025,2,23,2,36,63,True
+MAP3K3__any_CCM_gene_evaluable__exclude_multi_finding_selected,Hong 2021,0,43,0,38,81,False
+MAP3K3__any_CCM_gene_evaluable__exclude_multi_finding_selected,Huo 2023,0,14,10,32,56,True
+MAP3K3__any_CCM_gene_evaluable__exclude_multi_finding_selected,McDonald 2014,0,2,0,0,2,False
+MAP3K3__any_CCM_gene_evaluable__exclude_multi_finding_selected,Ren 2021 / Snellings 2022,0,15,13,33,61,True
+MAP3K3__any_CCM_gene_evaluable__exclude_multi_finding_selected,Sikta 2025,1,0,0,0,1,False
+MAP3K3__any_CCM_gene_evaluable__exclude_multi_finding_selected,Weng 2021,0,9,6,18,33,True
+MAP3K3__any_CCM_gene_evaluable__exclude_Hong_2021,Benichi 2025,2,23,2,36,63,True
+MAP3K3__any_CCM_gene_evaluable__exclude_Hong_2021,Huo 2023,0,14,10,32,56,True
+MAP3K3__any_CCM_gene_evaluable__exclude_Hong_2021,McDonald 2014,0,2,0,0,2,False
+MAP3K3__any_CCM_gene_evaluable__exclude_Hong_2021,Ren 2021 / Snellings 2022,0,15,13,33,61,True
+MAP3K3__any_CCM_gene_evaluable__exclude_Hong_2021,Sikta 2025,1,0,0,0,1,False
+MAP3K3__any_CCM_gene_evaluable__exclude_Hong_2021,Weng 2021,0,9,6,18,33,True
+MAP3K3__all_three_CCM_genes_evaluable__all_source_records,Hong 2021,0,43,0,38,81,False
+MAP3K3__all_three_CCM_genes_evaluable__all_source_records,Huo 2023,0,14,10,32,56,True
+MAP3K3__all_three_CCM_genes_evaluable__all_source_records,McDonald 2014,0,2,0,0,2,False
+MAP3K3__all_three_CCM_genes_evaluable__all_source_records,Ren 2021 / Snellings 2022,0,15,13,33,61,True
+MAP3K3__all_three_CCM_genes_evaluable__all_source_records,Sikta 2025,1,0,0,0,1,False
+MAP3K3__all_three_CCM_genes_evaluable__all_source_records,Weng 2021,0,9,6,18,33,True
+MAP3K3__all_three_CCM_genes_evaluable__known_absent_family_history,Hong 2021,0,43,0,38,81,False
+MAP3K3__all_three_CCM_genes_evaluable__known_absent_family_history,Huo 2023,0,14,10,32,56,True
+MAP3K3__all_three_CCM_genes_evaluable__known_absent_family_history,McDonald 2014,0,2,0,0,2,False
+MAP3K3__all_three_CCM_genes_evaluable__known_absent_family_history,Ren 2021 / Snellings 2022,0,7,4,7,18,True
+MAP3K3__all_three_CCM_genes_evaluable__known_absent_family_history,Sikta 2025,1,0,0,0,1,False
+MAP3K3__all_three_CCM_genes_evaluable__known_absent_family_history,Weng 2021,0,9,6,18,33,True
+MAP3K3__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Hong 2021,0,43,0,38,81,False
+MAP3K3__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Huo 2023,0,14,10,32,56,True
+MAP3K3__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,McDonald 2014,0,2,0,0,2,False
+MAP3K3__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Ren 2021 / Snellings 2022,0,15,13,33,61,True
+MAP3K3__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Sikta 2025,1,0,0,0,1,False
+MAP3K3__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Weng 2021,0,9,6,18,33,True
+MAP3K3__all_three_CCM_genes_evaluable__exclude_Hong_2021,Huo 2023,0,14,10,32,56,True
+MAP3K3__all_three_CCM_genes_evaluable__exclude_Hong_2021,McDonald 2014,0,2,0,0,2,False
+MAP3K3__all_three_CCM_genes_evaluable__exclude_Hong_2021,Ren 2021 / Snellings 2022,0,15,13,33,61,True
+MAP3K3__all_three_CCM_genes_evaluable__exclude_Hong_2021,Sikta 2025,1,0,0,0,1,False
+MAP3K3__all_three_CCM_genes_evaluable__exclude_Hong_2021,Weng 2021,0,9,6,18,33,True
+PIK3CA__any_CCM_gene_evaluable__all_source_records,Benichi 2025,3,38,1,21,63,True
+PIK3CA__any_CCM_gene_evaluable__all_source_records,Gallego-Bonhomme 2026,1,0,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__all_source_records,Hong 2021,0,45,0,36,81,False
+PIK3CA__any_CCM_gene_evaluable__all_source_records,Huo 2023,8,26,2,20,56,True
+PIK3CA__any_CCM_gene_evaluable__all_source_records,McDonald 2014,0,1,0,1,2,False
+PIK3CA__any_CCM_gene_evaluable__all_source_records,Nguyen 2026,4,0,0,0,4,False
+PIK3CA__any_CCM_gene_evaluable__all_source_records,Peyre 2021,4,30,4,47,85,True
+PIK3CA__any_CCM_gene_evaluable__all_source_records,Ren 2021 / Snellings 2022,12,33,1,15,61,True
+PIK3CA__any_CCM_gene_evaluable__all_source_records,Ren 2023 pediatric case (online 2022),0,1,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__all_source_records,Sikta 2025,1,0,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__all_source_records,Weng 2021,4,11,2,16,33,True
+PIK3CA__any_CCM_gene_evaluable__known_absent_family_history,Benichi 2025,3,38,1,21,63,True
+PIK3CA__any_CCM_gene_evaluable__known_absent_family_history,Gallego-Bonhomme 2026,1,0,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__known_absent_family_history,Hong 2021,0,45,0,36,81,False
+PIK3CA__any_CCM_gene_evaluable__known_absent_family_history,Huo 2023,8,26,2,20,56,True
+PIK3CA__any_CCM_gene_evaluable__known_absent_family_history,McDonald 2014,0,1,0,1,2,False
+PIK3CA__any_CCM_gene_evaluable__known_absent_family_history,Peyre 2021,4,30,4,47,85,True
+PIK3CA__any_CCM_gene_evaluable__known_absent_family_history,Ren 2021 / Snellings 2022,3,12,1,2,18,True
+PIK3CA__any_CCM_gene_evaluable__known_absent_family_history,Sikta 2025,1,0,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__known_absent_family_history,Weng 2021,4,11,2,16,33,True
+PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected,Benichi 2025,3,38,1,21,63,True
+PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected,Gallego-Bonhomme 2026,1,0,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected,Hong 2021,0,45,0,36,81,False
+PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected,Huo 2023,8,26,2,20,56,True
+PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected,McDonald 2014,0,1,0,1,2,False
+PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected,Peyre 2021,4,30,4,47,85,True
+PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected,Ren 2021 / Snellings 2022,12,33,1,15,61,True
+PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected,Ren 2023 pediatric case (online 2022),0,1,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected,Sikta 2025,1,0,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected,Weng 2021,4,11,2,16,33,True
+PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021,Benichi 2025,3,38,1,21,63,True
+PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021,Gallego-Bonhomme 2026,1,0,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021,Huo 2023,8,26,2,20,56,True
+PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021,McDonald 2014,0,1,0,1,2,False
+PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021,Nguyen 2026,4,0,0,0,4,False
+PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021,Peyre 2021,4,30,4,47,85,True
+PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021,Ren 2021 / Snellings 2022,12,33,1,15,61,True
+PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021,Ren 2023 pediatric case (online 2022),0,1,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021,Sikta 2025,1,0,0,0,1,False
+PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021,Weng 2021,4,11,2,16,33,True
+PIK3CA__all_three_CCM_genes_evaluable__all_source_records,Hong 2021,0,45,0,36,81,False
+PIK3CA__all_three_CCM_genes_evaluable__all_source_records,Huo 2023,8,26,2,20,56,True
+PIK3CA__all_three_CCM_genes_evaluable__all_source_records,McDonald 2014,0,1,0,1,2,False
+PIK3CA__all_three_CCM_genes_evaluable__all_source_records,Peyre 2021,4,30,4,47,85,True
+PIK3CA__all_three_CCM_genes_evaluable__all_source_records,Ren 2021 / Snellings 2022,12,33,1,15,61,True
+PIK3CA__all_three_CCM_genes_evaluable__all_source_records,Ren 2023 pediatric case (online 2022),0,1,0,0,1,False
+PIK3CA__all_three_CCM_genes_evaluable__all_source_records,Sikta 2025,1,0,0,0,1,False
+PIK3CA__all_three_CCM_genes_evaluable__all_source_records,Weng 2021,4,11,2,16,33,True
+PIK3CA__all_three_CCM_genes_evaluable__known_absent_family_history,Hong 2021,0,45,0,36,81,False
+PIK3CA__all_three_CCM_genes_evaluable__known_absent_family_history,Huo 2023,8,26,2,20,56,True
+PIK3CA__all_three_CCM_genes_evaluable__known_absent_family_history,McDonald 2014,0,1,0,1,2,False
+PIK3CA__all_three_CCM_genes_evaluable__known_absent_family_history,Peyre 2021,4,30,4,47,85,True
+PIK3CA__all_three_CCM_genes_evaluable__known_absent_family_history,Ren 2021 / Snellings 2022,3,12,1,2,18,True
+PIK3CA__all_three_CCM_genes_evaluable__known_absent_family_history,Sikta 2025,1,0,0,0,1,False
+PIK3CA__all_three_CCM_genes_evaluable__known_absent_family_history,Weng 2021,4,11,2,16,33,True
+PIK3CA__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Hong 2021,0,45,0,36,81,False
+PIK3CA__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Huo 2023,8,26,2,20,56,True
+PIK3CA__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,McDonald 2014,0,1,0,1,2,False
+PIK3CA__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Peyre 2021,4,30,4,47,85,True
+PIK3CA__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Ren 2021 / Snellings 2022,12,33,1,15,61,True
+PIK3CA__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Ren 2023 pediatric case (online 2022),0,1,0,0,1,False
+PIK3CA__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Sikta 2025,1,0,0,0,1,False
+PIK3CA__all_three_CCM_genes_evaluable__exclude_multi_finding_selected,Weng 2021,4,11,2,16,33,True
+PIK3CA__all_three_CCM_genes_evaluable__exclude_Hong_2021,Huo 2023,8,26,2,20,56,True
+PIK3CA__all_three_CCM_genes_evaluable__exclude_Hong_2021,McDonald 2014,0,1,0,1,2,False
+PIK3CA__all_three_CCM_genes_evaluable__exclude_Hong_2021,Peyre 2021,4,30,4,47,85,True
+PIK3CA__all_three_CCM_genes_evaluable__exclude_Hong_2021,Ren 2021 / Snellings 2022,12,33,1,15,61,True
+PIK3CA__all_three_CCM_genes_evaluable__exclude_Hong_2021,Ren 2023 pediatric case (online 2022),0,1,0,0,1,False
+PIK3CA__all_three_CCM_genes_evaluable__exclude_Hong_2021,Sikta 2025,1,0,0,0,1,False
+PIK3CA__all_three_CCM_genes_evaluable__exclude_Hong_2021,Weng 2021,4,11,2,16,33,True

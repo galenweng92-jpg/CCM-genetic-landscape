@@ -1,0 +1,9 @@
+analysis,endpoint,total_records,unit,positive,eligible_n
+Main analysis,KRIT1,1437,index/family unit,670,1351
+Main analysis,CCM2,1437,index/family unit,237,1351
+Main analysis,PDCD10,1437,index/family unit,192,1351
+Main analysis,Not detected,1437,index/family unit,252,1351
+Known family history,KRIT1,912,index/family unit,359,826
+Known family history,CCM2,912,index/family unit,141,826
+Known family history,PDCD10,912,index/family unit,74,826
+Known family history,Not detected,912,index/family unit,252,826
