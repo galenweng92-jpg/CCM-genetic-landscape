@@ -1,0 +1,26 @@
+analysis,gene,total_records,not_detected,unavailable,unit,positive,eligible_n,fraction,ci95_lower,ci95_upper
+All source records,KRIT1,747,361,353,source-linked lesion-testing display record,33,394,0.08375634517766498,0.06025917245029726,0.11529180966132689
+All source records,CCM2,747,315,415,source-linked lesion-testing display record,17,332,0.05120481927710843,0.032212388827675076,0.08046416681132866
+All source records,PDCD10,747,327,417,source-linked lesion-testing display record,3,330,0.00909090909090909,0.003096451914505057,0.026382986785108226
+All source records,MAP3K3,747,443,102,source-linked lesion-testing display record,202,645,0.31317829457364343,0.27858133542474023,0.349987405484586
+All source records,PIK3CA,747,301,10,source-linked lesion-testing display record,436,737,0.5915875169606513,0.5557142186640989,0.6265110042802262
+Exclude Ren 2025,KRIT1,476,361,82,source-linked lesion-testing display record,33,394,0.08375634517766498,0.06025917245029726,0.11529180966132689
+Exclude Ren 2025,CCM2,476,315,144,source-linked lesion-testing display record,17,332,0.05120481927710843,0.032212388827675076,0.08046416681132866
+Exclude Ren 2025,PDCD10,476,327,146,source-linked lesion-testing display record,3,330,0.00909090909090909,0.003096451914505057,0.026382986785108226
+Exclude Ren 2025,MAP3K3,476,246,102,source-linked lesion-testing display record,128,374,0.3422459893048128,0.2959826376696702,0.39171706482381047
+Exclude Ren 2025,PIK3CA,476,189,10,source-linked lesion-testing display record,277,466,0.5944206008583691,0.5492445247726475,0.6380526971900135
+Ren 2025 only,KRIT1,271,0,271,source-linked lesion-testing display record,0,0,,,
+Ren 2025 only,CCM2,271,0,271,source-linked lesion-testing display record,0,0,,,
+Ren 2025 only,PDCD10,271,0,271,source-linked lesion-testing display record,0,0,,,
+Ren 2025 only,MAP3K3,271,197,0,source-linked lesion-testing display record,74,271,0.2730627306273063,0.22346638503177357,0.32900288023928265
+Ren 2025 only,PIK3CA,271,112,0,source-linked lesion-testing display record,159,271,0.5867158671586716,0.5272748368218415,0.6437328423022265
+Exclude Ren 2025 and Hong 2021,KRIT1,395,280,82,source-linked lesion-testing display record,33,313,0.10543130990415335,0.0760627200805388,0.14436758307691058
+Exclude Ren 2025 and Hong 2021,CCM2,395,234,144,source-linked lesion-testing display record,17,251,0.06772908366533864,0.0427133138024808,0.10577688475394517
+Exclude Ren 2025 and Hong 2021,PDCD10,395,246,146,source-linked lesion-testing display record,3,249,0.012048192771084338,0.004105776208745478,0.034817661690231864
+Exclude Ren 2025 and Hong 2021,MAP3K3,395,208,102,source-linked lesion-testing display record,85,293,0.2901023890784983,0.24112237440555667,0.34451502109620286
+Exclude Ren 2025 and Hong 2021,PIK3CA,395,153,10,source-linked lesion-testing display record,232,385,0.6025974025974026,0.5529335695492874,0.6502340665345725
+Known absent family history,KRIT1,533,322,184,source-linked lesion-testing display record,27,349,0.07736389684813753,0.05371124556394914,0.11021920357889893
+Known absent family history,CCM2,533,274,247,source-linked lesion-testing display record,12,286,0.04195804195804196,0.0241620917616473,0.07189545271102873
+Known absent family history,PDCD10,533,284,248,source-linked lesion-testing display record,1,285,0.0035087719298245615,0.0006196531561142565,0.0196041015795948
+Known absent family history,MAP3K3,533,261,97,source-linked lesion-testing display record,175,436,0.4013761467889908,0.3564201944726816,0.4480548083372313
+Known absent family history,PIK3CA,533,176,10,source-linked lesion-testing display record,347,523,0.6634799235181644,0.621921797507146,0.7026540253272493

@@ -1,0 +1,3 @@
+endpoint,unit,positive,eligible_n,fraction,ci95_lower,ci95_upper
+PIK3CA co-finding,traceable paired sampled person,18,27,0.6666666666666666,0.47824760507320074,0.8135673850128435
+Same-CCM somatic finding,traceable paired sampled person,8,26,0.3076923076923077,0.16501315595463767,0.4998825832219837
