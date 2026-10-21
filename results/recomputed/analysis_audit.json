@@ -1,0 +1,23 @@
+{
+  "source_version": "2026-10-16 frozen-source tables; aggregates prepared 2026-10-20",
+  "scope": "Aggregate counts to statistical estimates only; no source extraction or record filtering rerun.",
+  "input_hashes": {
+    "association_2x2_counts.csv": "377bb09f198e96a8806951bb98afa18607697364ba13d229180460ba942eeff3",
+    "association_study_strata.csv": "4f063e9adc711149838f43c852aa8abb8d01b8d4f9acc1475f6fc898415a5fcf",
+    "familial_composition_counts.csv": "55be538d3a84875d10d71c7e7537c3d127386b1c83947498b986f97a58e5009e",
+    "map3k3_pik3ca_cofinding_sensitivity_counts.csv": "d6f300a6e14b00576ba4d740192472fbcc005c73c97d937f39417de72b0c514e",
+    "paired_endpoints_counts.csv": "b9a5d75aee20d1bfbf43ba988065df520339918c75ca05b892cd81f7761957be",
+    "sporadic_detection_sensitivity_counts.csv": "f9de427549d6ba56e0ba93dce7e46af32bb560832a6d549c0ce9d9672c83fdfd",
+    "study_specific_detection_counts.csv": "c4ed70807555c5b45ae6078bf00293f3ef334dda77567779ec17049f821d064e"
+  },
+  "python_version": "3.12.14",
+  "independent_Fisher_and_MH_checks": 16,
+  "limitations": [
+    "Source-linked records are not certified independent patients.",
+    "Predefined subsets were aggregated before release; this package cannot audit record-level eligibility.",
+    "Stratification does not remove unresolved cross-report overlap or within-study selection.",
+    "Complete-panel eligibility describes recorded assay scope, not uniform sequencing sensitivity.",
+    "Ren/Hong exclusions are sensitivity analyses, not established deduplication.",
+    "Descriptive binomial confidence intervals are not population prevalence estimates."
+  ]
+}

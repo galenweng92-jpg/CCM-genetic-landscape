@@ -1,0 +1,82 @@
+[
+  {
+    "check": "MAP3K3__any_CCM_gene_evaluable__all_source_records",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "MAP3K3__any_CCM_gene_evaluable__known_absent_family_history",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "MAP3K3__any_CCM_gene_evaluable__exclude_multi_finding_selected",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "MAP3K3__any_CCM_gene_evaluable__exclude_Hong_2021",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "MAP3K3__all_three_CCM_genes_evaluable__all_source_records",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "MAP3K3__all_three_CCM_genes_evaluable__known_absent_family_history",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "MAP3K3__all_three_CCM_genes_evaluable__exclude_multi_finding_selected",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "MAP3K3__all_three_CCM_genes_evaluable__exclude_Hong_2021",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "PIK3CA__any_CCM_gene_evaluable__all_source_records",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "PIK3CA__any_CCM_gene_evaluable__known_absent_family_history",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "PIK3CA__any_CCM_gene_evaluable__exclude_multi_finding_selected",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "PIK3CA__any_CCM_gene_evaluable__exclude_Hong_2021",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "PIK3CA__all_three_CCM_genes_evaluable__all_source_records",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "PIK3CA__all_three_CCM_genes_evaluable__known_absent_family_history",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "PIK3CA__all_three_CCM_genes_evaluable__exclude_multi_finding_selected",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  },
+  {
+    "check": "PIK3CA__all_three_CCM_genes_evaluable__exclude_Hong_2021",
+    "fisher_agrees": true,
+    "mh_agrees": true
+  }
+]

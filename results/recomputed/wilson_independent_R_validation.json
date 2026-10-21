@@ -1,0 +1,6 @@
+{
+  "wilson_rows_checked": [96],
+  "reference": ["stats::prop.test(correct=FALSE)"],
+  "maximum_tolerance": [1e-10],
+  "passed": [true]
+}

@@ -1,0 +1,3 @@
+﻿gene,threshold,contributing_studies,min_study,min_positive,min_eligible_n,min_fraction,max_study,max_positive,max_eligible_n,max_fraction
+MAP3K3,study source records >=23; gene evaluable N>0,8,Hongo 2025,10,50,0.2,Hong 2021,43,81,0.5308641975308642
+PIK3CA,study source records >=23; gene evaluable N>0,9,Peyre 2021,34,85,0.4,Ressler 2025/2026,21,23,0.9130434782608695
