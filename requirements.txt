@@ -1,0 +1,2 @@
+# Python 3.12 or later; standard library only.
+# R 4.5 and jsonlite are required separately. See README.md.

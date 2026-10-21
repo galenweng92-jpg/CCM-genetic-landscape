@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Private-repository initial-deposit package prepared 2026-10-21 for aggregate-count statistical reproduction. Cite the associated manuscript. No public release or archive DOI has been assigned."
+title: "CCM genetic landscape: aggregate statistical reproducibility"
+type: software
+version: "2026.10.20-rc1"
+repository-code: "https://github.com/galenweng92-jpg/CCM-genetic-landscape"
+authors:
+  - family-names: Weng
+    given-names: Jiancong
+  - family-names: Xiao
+    given-names: Xue
+  - family-names: Li
+    given-names: Da
+  - family-names: Xu
+    given-names: Hongyuan
+  - family-names: Chang
+    given-names: Chienhui
+  - family-names: Song
+    given-names: Hengwei
+  - family-names: Ma
+    given-names: Yuxuan
+  - family-names: Yu
+    given-names: Bin
+  - family-names: Derry
+    given-names: W. Brent
