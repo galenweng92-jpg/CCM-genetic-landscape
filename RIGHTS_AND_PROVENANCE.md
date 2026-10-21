@@ -1,6 +1,6 @@
 # Rights and provenance
 
-No software or data license is assigned by this release candidate. Public release and licensing remain subject to approval by the relevant authors/rightsholders. A public repository alone does not establish permission for unrestricted reuse.
+This repository was made publicly accessible on 2026-10-21 following the project owner's authorization. No software or data reuse license is assigned. A public repository alone does not establish permission for unrestricted reuse.
 
 ## Project-authored code
 
@@ -24,6 +24,6 @@ Individual-level source workbooks and analysis ledgers; specimen/patient/family 
 
 The full local audit package is retained separately for author-controlled verification. This public candidate does not reproduce source extraction or individual-record eligibility and is not a complete study-wide code release.
 
-## Before publication
+## Tagged and archival releases
 
-Confirm the creator list and ownership, choose appropriate separate code/data licenses, confirm the aggregate data are permitted for release, and verify that the README and manuscript describe the release accurately. Only then publish to a chosen GitHub account and Zenodo, and insert the actual URL/DOI. No DOI or license is reserved or invented in this candidate.
+The GitHub repository is publicly accessible. For a tagged or Zenodo archival release, confirm the creator list and ownership, select appropriate separate code/data reuse licenses, and verify that the README and manuscript describe the aggregate-only scope accurately. Insert an archival DOI only after it has actually been assigned. No DOI or license is reserved or invented here.

@@ -1,8 +1,8 @@
 # CCM genetic landscape: aggregate statistical reproducibility
 
-This repository candidate accompanies *The genetic landscape of familial and sporadic cerebral cavernous malformations*. It recomputes descriptive and association statistics from frozen aggregate counts corresponding to Supplemental Table S8.
+This repository accompanies *The genetic landscape of familial and sporadic cerebral cavernous malformations*. It recomputes descriptive and association statistics from frozen aggregate counts corresponding to Supplemental Table S8.
 
-**Status: private-repository initial-deposit package, prepared on 2026-10-21; no public release or archival DOI.** The authorized target is [galenweng92-jpg/CCM-genetic-landscape](https://github.com/galenweng92-jpg/CCM-genetic-landscape), with private visibility. This local package does not by itself confirm that the remote upload has completed. Code and data licensing require author approval before public deposition.
+**Status: publicly accessible GitHub repository, verified on 2026-10-21.** The repository is [galenweng92-jpg/CCM-genetic-landscape](https://github.com/galenweng92-jpg/CCM-genetic-landscape). The initial 61-file deposit was downloaded and matched byte for byte to the approved local package. Its aggregate statistical results also match the corresponding current Supplemental Table S8 worksheets and the manuscript's principal genetic statistics. No tagged GitHub release or archival DOI has been issued. No software or data reuse license has been assigned.
 
 ## Scope
 
@@ -49,7 +49,7 @@ python3 scripts/reproduce_statistics.py --output-dir results/recomputed --rscrip
 | `results/reference` | Sixteen frozen aggregate result tables from the author-controlled analysis. |
 | `results/recomputed` | Freshly computed results. |
 | `validation` | Executed environment and validation reports. |
-| `metadata` | Local Zenodo draft metadata and release status. No publication has been initiated. |
+| `metadata` | Repository status and a local Zenodo metadata template. No Zenodo deposition has been published. |
 
 ## Reading the data
 
@@ -63,4 +63,4 @@ Source-linked lesion-testing records are not certified independent patients. Stu
 
 Read `RIGHTS_AND_PROVENANCE.md` before redistribution. No blanket license has been assigned. The project-authored code and the literature-derived aggregate data have separate provenance and require separate licensing review. Third-party source articles and database memberships are not relicensed by this package.
 
-`CITATION.cff` retains the manuscript author names/order from the local manuscript package. It supplies neither ORCIDs nor affiliations that were not verified. The repository URL identifies the authorized private-deposit target, not a public release. After a real public release, insert the assigned archival DOI and update the manuscript's Data and code availability statement to describe this package's limited scope.
+`CITATION.cff` retains the manuscript author names/order from the local manuscript package. It supplies neither ORCIDs nor affiliations that were not verified. Cite the repository URL for the currently available aggregate statistical code. If an archival DOI is subsequently assigned, add the actual DOI and describe the same aggregate-only scope in the manuscript's Data and code availability statement.
